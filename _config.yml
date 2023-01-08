@@ -22,7 +22,7 @@ twitter_username: rotnicki
 github_username: rotnicki
 minimal_mistakes_skin: "contrast"
 search: true
-locale: "en"
+locale: "pl"
 
 # Build settings
 markdown: kramdown
