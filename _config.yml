@@ -64,7 +64,7 @@ author:
   bio    : "Specjalista ds. dostępności – „ewangelista”, szkoleniowiec, konsultant, audytor. Propagator filozofii uniwersalnego projektowania. Współtwórca rozwiązań i aplikacji mobilnych wspierających osoby z niepełnosprawnością wzroku. Autor artykułów i publikacji poświęconych dostępności i nowoczesnym technologiom asystującym. Pasjonat urządzeń z logo nadgryzionego jabłka."
   links:
     - label: "E-mail"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-envelope"
       url: "mailto:rotnicki@gmail.com"
     - label: "Raport dostępności"
       icon: "fas fa-fw fa-link"
