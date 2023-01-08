@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   o dostępności pisze Mikołaj Rotnicki
 twitter_username: rotnicki
 github_username: rotnicki
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "contrast"
 search: true
 
 # Build settings
