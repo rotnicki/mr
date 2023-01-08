@@ -1080,7 +1080,7 @@ pl: &DEFAULT_PL
   breadcrumb_home_label      : "Strona główna"
   breadcrumb_separator       : "/"
   menu_label                 : "Przełącz menu"
-  search_label               : "Szukaj"
+  search_label               : "Wyszukiwarka"
   toc_label                  : "Spis treści"
   ext_link_label             : "Link bezpośredni"
   less_than                  : "mniej niż"
@@ -1112,8 +1112,11 @@ pl: &DEFAULT_PL
   comment_success_msg        : "Dziękuję za Twój komentarz! Zostanie dodany po akceptacji."
   comment_error_msg          : "Niestety wystąpił błąd. Proszę upewnij się, że wszystkie wymagane pola zostały wypełnione i spróbuj ponownie."
   loading_label              : "Trwa ładowanie strony..."
-  search_label_text          : "Szukaj"
+  search_label_text          : "Wpisz frazę do wyszukania"
+  search_placeholder_text    : "Wpisz frazę do wyszukania"
   search_algolia_no_results  : "Brak wyników"
+  results_found              : "wynik(ów) znaleziono"
+  back_to_top                : "Przewiń na początek"
 pl-PL:
   <<: *DEFAULT_PL
 
